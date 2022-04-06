@@ -1,0 +1,56 @@
+.nav
+{
+    display:grid;
+    grid-template-columns: 30% 20% 20% 20% 10%;
+
+    color: white;
+}
+
+.nav > img
+{
+    margin-top: -18%;
+    margin-left: -30%;
+    width: 400px;
+}
+
+.mainnav
+{
+    width: 50%;
+}
+
+.search > div > input
+{
+    border-radius: 30px;
+    height : 50px;
+    width: 500px;
+    margin-left: 50% ;
+    margin-top: 7%;
+    font-size: x-large;
+}
+
+.signmain{
+    height:auto ;
+    width:4%;
+    /* margin-left: 30%; */
+    
+    
+}   
+.sign{
+    color: white;
+    display: grid;
+    grid-template-columns: 50% 40%;
+    gap: 10%;
+}
+.img
+{
+    height: auto;
+    width: 100%;
+    border-radius: 50%;
+    margin-left: 100%;
+    margin-top: 30%;
+}
+.lan{
+    margin-left: 50%;
+    width: 500px;
+    color: aliceblue;
+}

@@ -1,0 +1,27 @@
+.signmain{
+    height:auto ;
+    width:4%;
+    /* margin-left: 30%; */
+    
+    
+}   
+.sign{
+    color: white;
+    display: grid;
+    grid-template-columns: 30% 60%;
+    gap: 10%;
+}
+
+.sign > div
+{
+    width: 100%;
+}
+
+.img
+{
+    height: auto;
+    width: 100%;
+    border-radius: 50%;
+    margin-left: 100%;
+    margin-top: 30%;
+}
